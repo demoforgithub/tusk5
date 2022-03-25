@@ -8,3 +8,5 @@ pizza
 bad 
 good
 good
+very
+bad
